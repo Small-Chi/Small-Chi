@@ -27,9 +27,11 @@
 ![github](https://img.shields.io/badge/-GitHub-%23000000?style=flat&logo=github)
 ![vscode](https://img.shields.io/badge/-VSCode-%23333333?style=flat&logo=visual-studio-code&logoColor=%23007ACC)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawChi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayting&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShawChi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayting&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
