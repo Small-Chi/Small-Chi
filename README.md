@@ -28,11 +28,11 @@
 ![vscode](https://img.shields.io/badge/-VSCode-%23333333?style=flat&logo=visual-studio-code&logoColor=%23007ACC)
 
 
-<h5><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=small-chi&show_icons=true&theme=radical&title_color=b4c0e4&text_color=e0e5f5&bg_color=000000&locale=en&layout=compact" alt="small-chi" /></h5>
-
-<h5>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=small-chi&show_icons=true&theme=tokyonight&title_color=b4c0e4&text_color=e0e5f5&bg_color=000000&locale=en" alt="small-chi" /></h5>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-chi&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=small-chi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
