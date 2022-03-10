@@ -27,13 +27,11 @@
 ![github](https://img.shields.io/badge/-GitHub-%23000000?style=flat&logo=github)
 ![vscode](https://img.shields.io/badge/-VSCode-%23333333?style=flat&logo=visual-studio-code&logoColor=%23007ACC)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayting&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayting&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=small-chi&show_icons=true&theme=radical&title_color=b4c0e4&text_color=e0e5f5&bg_color=000000&locale=en&layout=compact" alt="small-chi" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=small-chi&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=b4c0e4&locale=en&layout=compact" alt="small-chi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=small-chi&show_icons=true&theme=tokyonight&title_color=b4c0e4&text_color=e0e5f5&bg_color=000000&locale=en" alt="small-chi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=small-chi&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=b4c0e4&locale=en" alt="small-chi" /></p>
 
 
 
