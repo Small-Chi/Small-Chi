@@ -31,6 +31,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayting&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=small-chi&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=b4c0e4&locale=en&layout=compact" alt="small-chi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=small-chi&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=b4c0e4&locale=en" alt="small-chi" /></p>
 
 
 
